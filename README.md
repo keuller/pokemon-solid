@@ -10,7 +10,7 @@ This demo application of Pokemon search using [solid-js](https://github.com/soli
 - Provides concepts of Global store
 - Loads data from external resource
 
-### Installing dependecies
+### Installing dependencies
 ```shell
 git clone https://github.com/keuller/pokemon-solid.git
 
