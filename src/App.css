@@ -1,0 +1,49 @@
+body {
+    font-family: -apple-system, Roboto, Ubuntu,'Open Sans', 'Helvetica Neue', sans-serif;
+    margin:0;
+    padding:0;
+}
+
+.container {
+    display: block;
+    padding: 10px 15px;
+    overflow-y: hidden;
+    width: 100vw;
+}
+
+.filter-input {
+    padding: 5px 5px;
+    font-size: 1rem;
+    border-width: 1px;
+    border-radius: 7px;
+    margin-bottom: 15px;
+    width: 89%;
+}
+
+.filter-input:focus {
+    background: #d9d9ffad;
+    outline: none;
+}
+
+.pm-table {
+    padding: 0;
+    margin: 0;
+    border: 1px solid #DDD;
+    border-radius: 10px;
+    width: 90%;
+}
+
+tr { line-height: 24px;}
+
+.pm-table > tbody > tr:nth-child(even) {
+    background-color: rgba(214, 221, 255, 0.548);
+}
+
+.pm-table-header {
+    color: #fff;
+    background-color: #b5b9fa !important;
+    text-transform: uppercase;
+    text-align: center;
+    height: 38px;
+    vertical-align: middle;
+}
