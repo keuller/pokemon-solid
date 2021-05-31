@@ -14,7 +14,7 @@ This demo application of Pokemon search using [solid-js](https://github.com/soli
 ```shell
 git clone https://github.com/keuller/pokemon-solid.git
 
-cd pokemin-solid && npm install
+cd pokemon-solid && npm install
 ```
 
 ### Dev mode
